@@ -1,0 +1,12 @@
+/* Global Styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+@import "./components/container.css";
+@import "./components/navbar.css";
+
+body {
+    font-family:  'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
